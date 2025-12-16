@@ -1,7 +1,7 @@
 # Maintainer: luisgamercool-oss <majorblueberry52@protonmail.com>
 
 pkgname=steam-devices-git
-pkgver=v1.0.0.61.r77.4d7e6c1
+pkgver=v1.0.0.61.r79.daf01bc
 pkgrel=1
 pkgdesc="List of devices Steam and SteamVR will want read/write permissions on. Useful when using the Flatpak version of Steam."
 arch=('any')
